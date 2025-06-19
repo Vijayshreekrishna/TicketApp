@@ -29,22 +29,20 @@ A simple **React-based Ticket Application** where users can raise tickets by ent
 ---
 
 ## 📁 Folder Structure
-project-root/
+```project-root/
+FRONTEND
 │
-├── client/                 # React frontend
+├── client/                 # React 
 │   ├── public/
 │   └── src/
 │       ├── components/
 │       ├── pages/
 │       ├── App.js
 │       └── index.js
+BACKEND
 │
-├── server/                 # Express backend
+├── server/                 # Express 
 │   ├── models/
 │   ├── routes/
 │   ├── controllers/
-│   └── server.js
-│
-├── .env                    # Environment variables
-├── README.md               # Project documentation
-└── package.json            # Node metadata
+│   └── server.js```
