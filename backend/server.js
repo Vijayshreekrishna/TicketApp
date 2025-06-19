@@ -8,7 +8,7 @@ app.use(cors());
 app.use(express.json());
 
 
-mongoose.connect('mongodb+srv://vsk:shreekrishna2004@cluster1.1xkrr7k.mongodb.net/Tk');
+mongoose.connect('mongodb+srv://vsk:**********@cluster1.1xkrr7k.mongodb.net/Tk');
 
 
 app.listen(PORT, () => {
