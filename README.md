@@ -23,8 +23,8 @@ A simple **React-based Ticket Application** where users can raise tickets by ent
 
 ## 📷 Snapshots
 
-1. ![Home Page Snapshot](./assets/snapshot1.png)  
-2. ![Ticket Display Page](https://github.com/Vijayshreekrishna/TicketApp/blob/8cbfa1b1f045e0dcd5773660534e97e0c4377355/Screenshot%202025-06-19%20225750.png)
+ ![Home Page Snapshot](https://github.com/Vijayshreekrishna/TicketApp/blob/8cbfa1b1f045e0dcd5773660534e97e0c4377355/Screenshot%202025-06-19%20225750.png)  
+ ![Ticket Display Page](https://github.com/Vijayshreekrishna/TicketApp/blob/8cbfa1b1f045e0dcd5773660534e97e0c4377355/Screenshot%202025-06-19%20225733.png)
 
 ---
 
